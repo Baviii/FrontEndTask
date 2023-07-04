@@ -1,25 +1,22 @@
-body
-{
-   display: flex;
-   justify-content: center;
-   align-items: center;
-   height: 100vh;
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
-.container
-{
+
+.container {
     display: flex;
     width: 210px;
     flex-wrap: wrap;
     gap: 10px;
     justify-content: space-evenly;
-    
 }
-.flexbox
-{
+
+.flexbox {
     display: flex;
     justify-content: center;
     align-items: center;
     width: 100px;
     height: 100px;
-    
 }
